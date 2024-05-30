@@ -13,3 +13,6 @@
 `$ python3 sender.py`
 
 4. Por fim, abra o arquivo `index.html` no navegador.
+
+
+[Assista ao vídeo demonstrativo](https://drive.google.com/file/d/13aAMRXzrKqL-mmnYR2pYd7I1X_ZcYBNJ/view?usp=sharing)
